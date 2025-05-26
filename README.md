@@ -27,3 +27,5 @@ http://localhost:8002
 ```
 http://localhost:8001
 ```
+
+8. Mode details, see https://www.youtube.com/watch?v=uY_cp41E7SU
