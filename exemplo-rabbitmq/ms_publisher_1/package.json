@@ -1,0 +1,13 @@
+{
+  "name": "publisher",
+  "version": "1.0.0",
+  "description": "Projeto publisher que envia mensagens para o RabbitMQ",
+  "main": "index.js",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "express": "^5.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
